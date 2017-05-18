@@ -1,0 +1,12 @@
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Infra.Data\bin\Debug\Gestao.Infra.Data.dll.config
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Infra.Data\bin\Debug\Gestao.Infra.Data.dll
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Infra.Data\bin\Debug\Gestao.Infra.Data.pdb
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Infra.Data\bin\Debug\EntityFramework.dll
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Infra.Data\bin\Debug\Gestao.Domain.dll
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Infra.Data\bin\Debug\Gestao.Domain.pdb
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Infra.Data\bin\Debug\EntityFramework.xml
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Infra.Data\obj\Debug\Gestao.Infra.Data.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Infra.Data\obj\Debug\Gestao.Infra.Data.dll
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Infra.Data\obj\Debug\Gestao.Infra.Data.pdb

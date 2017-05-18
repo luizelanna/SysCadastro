@@ -1,0 +1,5 @@
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Domain\bin\Debug\Gestao.Domain.dll
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Domain\bin\Debug\Gestao.Domain.pdb
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Domain\obj\Debug\Gestao.Domain.dll
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Domain\obj\Debug\Gestao.Domain.pdb
+d:\documents\visual studio 2017\Projects\SysCadastro\Gestao.Domain\obj\Debug\Gestao.Domain.csprojResolveAssemblyReference.cache

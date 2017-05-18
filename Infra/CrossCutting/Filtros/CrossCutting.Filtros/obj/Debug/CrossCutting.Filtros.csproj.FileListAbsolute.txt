@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\bin\Debug\CrossCutting.Filtros.dll
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\bin\Debug\CrossCutting.Filtros.pdb
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\bin\Debug\System.Net.Http.Formatting.dll
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\bin\Debug\System.Web.Http.dll
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\bin\Debug\System.Web.Mvc.dll
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\bin\Debug\System.Net.Http.Formatting.xml
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\bin\Debug\System.Web.Http.xml
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\bin\Debug\System.Web.Mvc.xml
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\bin\Debug\pt-br\System.Web.Mvc.resources.dll
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\obj\Debug\CrossCutting.Filtros.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\obj\Debug\CrossCutting.Filtros.dll
+D:\Documents\Visual Studio 2017\Projects\SysCadastro\Infra\CrossCutting\Filtros\CrossCutting.Filtros\obj\Debug\CrossCutting.Filtros.pdb
